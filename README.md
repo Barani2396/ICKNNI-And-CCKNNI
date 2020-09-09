@@ -1,2 +1,2 @@
 # ICKNNI-And-CCKNNI
-Data Mining
+Imputation Algorithm
