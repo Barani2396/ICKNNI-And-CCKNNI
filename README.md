@@ -1,2 +1,3 @@
 # ICKNNI-And-CCKNNI
-Incomplete case KNN and Complete case KNN imputation algorithms compute the missing values in datasets by utilizing the shortest path technique. 
+Incomplete case KNN and Complete case KNN imputation are two data mining algorithms, which compute the missing values in datasets by utilizing the shortest path technique. The work outlines the efficiency of these algorithms and identifies the best suitable for discrete datasets.
+
